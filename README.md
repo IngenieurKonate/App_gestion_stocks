@@ -41,8 +41,8 @@ Une application de bureau développée en Python pour la gestion complète des s
      ```bash
      git clone [https://github.com/IngenieurKonate/App_gestion_stocks]
   2.	Installez les dépendances :
-      ```bash
-     git install matplotlib
+     pip install matplotlib
+
   4.	Lancez l'application :
     ```bash
    Copy: 
