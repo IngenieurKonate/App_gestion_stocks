@@ -42,10 +42,10 @@ Une application de bureau développée en Python pour la gestion complète des s
      git clone [https://github.com/IngenieurKonate/App_gestion_stocks]
   2.	Installez les dépendances :
       ```bash
-      pip install matplotlib
+       pip install matplotlib
   3.	Lancez l'application :
     ```bash
-    python stock_manager.py
+     python stock_manager.py
 
 ## Contribution
 
